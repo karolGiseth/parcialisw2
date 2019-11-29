@@ -30,6 +30,7 @@ public class Compuesto extends Ministerio {
 	}
 
 	
+	
 	@Override
 	public void mostrar(int nivel) {
 		// TODO Auto-generated method stub
